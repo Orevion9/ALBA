@@ -1,0 +1,6 @@
+{
+  "name": "Alba Figür",
+  "description": "Beyaz tenli ve beyaz kıyafetli standart vektörel erkek karakter çizimi vitrini ve etkileşimli poz, açı, yüz ifadesi stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
